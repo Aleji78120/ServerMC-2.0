@@ -7,7 +7,7 @@
 
 # Regiones de ngrok
 # Código          Lugar
-#-----------      ---------------------------
+# us		         Estados unidos (Ohio)
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
